@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BMIcalculator/src/main/java"/>
+	<classpathentry kind="lib" path="BMIcalculator/target/BMIcalculator-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="BMIcalculator/target/classes"/>
+</classpath>
